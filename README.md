@@ -15,5 +15,11 @@ Datasets used:https://sites.google.com/view/utarldd/home
 
 The dataset we used for training the model are taken from the link. However, the download link is unaccessable. We managed to download one folder of the dataset before the link gone and the folder have 12 participants folder and each of the folder has 3 videos that classify between 0 (as alert), 5 (as non-vigilant) and 10 (as drowsy).
 
+# P/S
+We unable to upload our face landmark model, but worry not, heres the link to directly download it and put it the project.
+Here the link: https://drive.google.com/file/d/1hjjUgxZz1IGYA_7rNI7ZetDkpUs4pThW/view?usp=sharing
+
+Have good times in improving (or actually fixing) the code if you want to.
+:)
 
 By Ch'ng Hou Zhi, Tan Yeung How, Mohd Hazri Muhd Ridhwan, Nurhidayah halim
