@@ -1,7 +1,7 @@
 # Java-Based-Drowsiness-Detection
 
 # Description
-This is the capstone project is to detect drowsiness of a driver and provide assistance e.g: alarm and suggestion.
+This capstone project is to detect drowsiness of a driver and provide assistance e.g: alarm and suggestion.
 This is just a trial for java project, as we progress in building the model and algorithm for the java, we end up having difficulites in completing the project due to time and resources. Due to that reasons, we have move on to Python as our platform to complete the project: https://github.com/hzchng/drowsiness-detector.
 
 However, we will provide and possibily continue in updating the code so it would be a good references for us and community to explore on using java and DL4j as the platform for this projects.
